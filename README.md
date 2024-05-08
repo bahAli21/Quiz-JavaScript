@@ -38,5 +38,4 @@ Ce projet est sous licence [MIT License](LICENSE).
 
 N'hésitez pas à contribuer en ouvrant une issue ou en soumettant une pull request pour proposer des améliorations ou de nouvelles fonctionnalités.
 
-#### Nom du repository GitHub suggéré : `javascript-quiz`
 
