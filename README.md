@@ -23,15 +23,12 @@ Ce projet est une application web pour tester vos compétences en JavaScript à 
 4. Répétez les étapes jusqu'à la fin du quiz.
 5. À la fin, votre score sera affiché, et vous aurez la possibilité de rejouer.
 
-### Installation et utilisation
+### Tester l'application ici 
 
-1. Clonez ce repository : `git clone https://github.com/votre-utilisateur/quiz-javascript.git`
-2. Ouvrez le fichier `index.html` dans votre navigateur web.
-3. Commencez à jouer au quiz JavaScript !
-
+[Visiter](https://bahali21.github.io/Quiz-JavaScript/)
 ### Auteur
 
-[Votre Nom](https://github.com/votre-utilisateur)
+[BAH Mamadou](https://bahali21.github.io/BAHMamadou/)
 
 ### Licence
 
