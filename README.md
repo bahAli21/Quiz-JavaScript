@@ -1,6 +1,6 @@
 ## Quiz JavaScript 🧠
 
-Ce projet est une application web pour tester vos compétences en JavaScript à travers un quiz interactif. Vous disposez de 15 secondes par question pour choisir la bonne réponse parmi quatre choix possibles. Le compte à rebours est affiché en haut à droite de l'écran.
+Ce projet est une application web pour tester vos compétences en JavaScript à travers un quiz interactif. Vous disposez de 20 secondes par question pour choisir la bonne réponse parmi quatre choix possibles. Le compte à rebours est affiché en haut à droite de l'écran.
 
 ### Fonctionnalités
 
